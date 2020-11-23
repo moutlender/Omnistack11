@@ -25,6 +25,7 @@
   <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
 </p>
 
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -34,14 +35,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projeto
+
+## 💻 Projeto - Semana Omnistack 11
 
 O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda. Eu acabei refazendo o projeto pois quando tentei pela primeira vez não conseguia acompanhar e entender o que estava fazendo, mas agora com mais maturidade consegui e estou muito feliz por isso, agradeço ajuda da Rockeseat por ajudar que conseguisse fazer algo assim e pela ajuda na minha evolução.  
 
-# Omnistack 11
 
-💻 Projeto
-O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
 ## :memo: Licença
 
