@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
     <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
 </h1>
@@ -40,3 +41,9 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+=======
+# Omnistack 11
+
+💻 Projeto
+O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+>>>>>>> 119801aeb937bf2f4bbe3746bd7a04d3e185ae95
