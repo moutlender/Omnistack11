@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">
     <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
 </h1>
